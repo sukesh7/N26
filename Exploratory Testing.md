@@ -5,8 +5,7 @@
 * [Environment Context](#environment-context)
 * [Charters](#charters)
 * [Prioritization](#prioritization)
-* [Observations](#observations)
-* [Non Functional Requirements](#nfr)
+* [Non Functional Requirements](#non-functional-requirements)
 * [Risks And Mitigation](#risks-and-mitigation)
 
 ## Intro
@@ -170,7 +169,7 @@ The functionality is not able to test because of premium feature.
 3. The user should be able to merge the categories together sucessfully
 
 
-## Non Functional
+## Non Functional Requirements
 
 1. Security 
 	* Other applications should not be able to steal the data from the application.

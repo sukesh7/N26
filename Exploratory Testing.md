@@ -1,4 +1,4 @@
-# Moneyf Exploratory Testing
+# Monefy Exploratory Testing
 
 ## Table of Contents
 * [Intro](#intro)
